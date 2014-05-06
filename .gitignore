@@ -1,0 +1,7 @@
+*.o
+*~
+*#
+corewar/corewar
+asm/asm
+de_asm/de_asm
+*.bak
